@@ -14,7 +14,8 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Diniz&layout=compact&bg_color=282a36&text_color=fff&title_color=bd93f9&hide_border=true)](https://github.com/Patrick-Diniz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=jolly)
+
 
 ***
 
