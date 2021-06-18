@@ -13,9 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Diniz&show_icons=true&theme=dracula&icon_color=ff79c6&title_color=bd93f9&hide_border=true)
 
 ***
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Diniz&theme=dracula&title_color=bd93f9&hide_border=true&icon_color=ff79c6)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Diniz&theme=dracula&title_color=bd93f9&hide_border=true&icon_color=ff79c6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
