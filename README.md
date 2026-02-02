@@ -9,7 +9,7 @@ Software Engineering Student | React & TypeScript Developer | IT Infrastructure 
 ---
 
 ### 💻 My Portfolio
-> **Check out my work and live projects:** [patrickdiniz.com.br](https://patrickdiniz.com.br)
+> **Check out my work and live projects:** <a href="https://patrickdiniz.com.br" target="_blank">patrickdiniz.com.br</a>
 
 ---
 
@@ -23,15 +23,6 @@ Software Engineering Student | React & TypeScript Developer | IT Infrastructure 
 
 **Tools & Automation**
 - ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Patrick-Diniz&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrick-Diniz&layout=compact&theme=dracula&hide_border=true" />
-</p>
 
 ---
 
